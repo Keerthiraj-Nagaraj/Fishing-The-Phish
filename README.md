@@ -1,6 +1,5 @@
-# shellhacks
+# Fishing The Phish: Data science and Machine learning driven phishing link detection model
 
-# Fishing The Phish
  Winner of "Akamai Security Challenge" and "MITRE Cyber Phishing Challenge" at ShellHacks 2019. 
 
  The world has increasingly become dependent on the internet for a majority of its tasks and has become an indispensable part of our daily lives. Therefore it comes as no surprise that many institutions implement various security measures to mitigate and also prevent the cyber-security attacks. Phishing is one of the many security attacks of this spectrum. In the above attack, a user wants to gain customer-sensitive information, by masquerading as a legitimate website. 
